@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TensorFlowImageClassifier_core", "TensorFlowImageClassifier_core\TensorFlowImageClassifier_core.pyproj", "{7AD2CAD2-AF09-4862-8DE3-5BA5BDAB2180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD2CAD2-AF09-4862-8DE3-5BA5BDAB2180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD2CAD2-AF09-4862-8DE3-5BA5BDAB2180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A0302D1-F590-4E2F-9DD1-F34E3238E5BC}
+	EndGlobalSection
+EndGlobal
